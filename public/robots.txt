@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://freshcutdemo.in/sitemap.xml

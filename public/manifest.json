@@ -1,0 +1,17 @@
+{
+  "name": "FreshCut Chicken Co.",
+  "short_name": "FreshCut",
+  "description": "Cut fresh. At your door before the chai gets cold.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF6EE",
+  "theme_color": "#C8262B",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

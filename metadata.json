@@ -1,0 +1,6 @@
+{
+  "name": "FreshCut Chicken Co.",
+  "description": "Artisanal D2C fresh chicken & meat delivery shop demo with live daily rate board, cut explorer, WhatsApp ordering, and interactive admin suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
