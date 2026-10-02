@@ -309,5 +309,6 @@ This project is a **demo / sample application** provided for evaluation and educ
 ---
 
 <div align="center">
-  <strong>FreshCut Chicken Co.</strong> · Built with React, Vite & Tailwind CSS
+  <strong>FreshCut Chicken Co.</strong> · Built with React, Vite & Tailwind CSS<br><br>
+  Built by <strong><a href="https://github.com/girishlade111">Girish Lade</a></strong> · Part of the <a href="https://ladestack.in">LadeStack</a> open-source collection.
 </div>
